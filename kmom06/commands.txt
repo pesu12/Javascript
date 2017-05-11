@@ -1,0 +1,3 @@
+ssh pesu12@nodejs1.student.bth.se
+http://nodejs1.student.bth.se:8127/
+ws://nodejs1.student.bth.se:8127/

@@ -1,0 +1,28 @@
+1. Skapa en php-index sida som pluginen kan använda sig av.
+   till exempel en fil som heter <projekt>/index.php:
+   <div id='boxvisitcard' class='cardbox'>
+     <img class='visitcard' src='<image>?w=100' alt='' width='100px' />
+     <h2><u><Företag/Skola></u></h2>
+     <p><Namn></p>
+     <p><Position></p>
+     <p><e-post-adress>
+     </br>
+     Telefon <telefon>
+   </br>
+   Address: <Address></p>
+   </div>
+   <div id='boxchangeformat' class='box'>
+     <input id='boxchangeformat_change_font_big_logo' type='button' value='Byt text font, stor logo' />
+     <input id='boxchangeformat_change_font_small_logo' type='button' value='Byt text font, liten logo' />
+   </div>
+
+   <a href="http://www.student.bth.se/~pesu12/javascript/kmom03/lekplats/task/index.php">Länk till index.php exempel</a>
+
+
+2. Lägg in plugin-koden i en javascript-fil, till exempel <projekt>/main.js
+   <a href="http://www.student.bth.se/~pesu12/javascript/kmom03/lekplats/task/main.js">Länk till main.js exempel</a>
+
+3. Lägg till en <projekt>style.less fil
+<a href="http://www.student.bth.se/~pesu12/javascript/kmom03/lekplats/task/main.js">Länk till style.less exempel</a>
+
+4. Lägg till en bild för logon i katalogen <projekt>image/
